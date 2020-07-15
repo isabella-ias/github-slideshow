@@ -2,9 +2,9 @@
 # Desenvolvido por Isabella Almeida 
 
 # Algoritmo
-# Método: Descrição narrativa 
-# Passo 1: Receber os dados
-# Passo 2: Escrever os dados na tela
+# Método: Descrição narrativa; 
+# Passo 1: Receber os dados;
+# Passo 2: Escrever os dados na tela.
 
 # Readline = ler linha
 
